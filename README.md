@@ -1,2 +1,1 @@
-# c-test
-just a test
+This is a just a test, my first repository.
